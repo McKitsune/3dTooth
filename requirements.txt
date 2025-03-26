@@ -1,0 +1,10 @@
+# Dependencias
+
+PyQt5
+opencv-python
+open3d
+fastapi
+uvicorn
+pydantic
+numpy
+pillow

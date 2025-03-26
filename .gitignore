@@ -1,0 +1,16 @@
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+.env
+
+# Archivos de bases de datos
+database/database.db
+storage/db/
+
+# Configuraciones personales
+config.py
